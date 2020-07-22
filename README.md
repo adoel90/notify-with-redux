@@ -1,1 +1,1 @@
-# notify-with-redux
+##### Berkenalan dengan Redux:  Buat notif yang dapat di gunakan di component manapun, tinggal click dispatch() 
