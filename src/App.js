@@ -5,9 +5,7 @@ import store from './redux/store'
 import Parent from './components/ParentComponent'
 import Snackbeer from './components/Snackbeer'
 
-const App = () => {
-
-  const [ isOpen, setOpen ] = useState(false);
+const App = () => {  
 
   return (
     <Provider store={store}>               
